@@ -8,7 +8,7 @@ Meu objetivo é colaborar com pessoas e empresas, utilizando técnicas avançada
 ## Projetos
 Aqui estão alguns dos projetos que desenvolvi como parte do meu portfólio de Data Science:
 
-* [1. Análise de Dados do Airbnb (Hawaii):](https://colab.research.google.com/drive/1b4qBOY9Wqc2Sl_Ya25x4rd4Sa1aqbu5l?usp=sharing&authuser=1#scrollTo=cf8c7974](https://github.com/pedromendesjr/projetosDS/blob/main/An%C3%A1lise_de_Dados_do_Airbnb_Hawaii_(Hava%C3%AD).ipynb)
+* [1. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/projetosDS/blob/main/An%C3%A1lise_de_Dados_do_Airbnb_Hawaii_(Hava%C3%AD).ipynb)
 
 Descrição: Utilizei técnicas de visualição de dados, estatística descritiva, geolocalização. Esse foi o meu primeiro projeto de Análise de Dados desenvolvido. Apesar de simples, foi de grande relevancia para o meu desenvolvimento nas habilidades técnicas utilizadas no projeto. 
 Tecnologias utilizadas: Python, Matplotlib, Plotly, Seaborn
