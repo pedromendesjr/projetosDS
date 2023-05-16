@@ -1,5 +1,5 @@
 # Pedro Lourenço Mendes Júnior - Data Science Portfolio
-Sobre mim
+## Sobre mim
 Olá! Meu nome é Pedro Lourenço Mendes Júnior, tenho 31 anos e sou um entusiasta de Data Science apaixonado por explorar o poder dos dados para obter insights valiosos e tomar decisões fundamentadas. Com uma formação em Licenciatura em Matemática pela Universidade Federal de Santa Catarina, adquiri habilidades sólidas em análise numérica, estatística e modelagem matemática, que me permitem abordar problemas complexos de maneira criativa e eficiente.
 
 ## Objetivo
