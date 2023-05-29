@@ -17,3 +17,7 @@ Tecnologias utilizadas: Python, Matplotlib, Plotly, Seaborn
 
 Descrição: Criei um modelo de previsão de preços de carros usados através de um dataset do Kaggle. Durante o processo, pudemos aperfeições diversas tecnicas de limpaza, feature section, preprocessamento, e entre outras técnicas.
 Tecnologias utilizadas: Python, pandas, scikit-learn, regressão linear.
+
+* [3. Dashboard no Tableau para monitoramento das vacinas da COVID-19:](https://public.tableau.com/views/PaineldaVacinasCOVID-19/Dashboard-VacinasnoMundo?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
+Descrição: Um painel com os dados obtidos no Our World in Data sobre as aplicações das vacinas da COVID-19 no mundo. No projeto, podemos ver a quantidade ministrada em 1a dose, vacinação completa e dose de reforço por continente ou país. Além disso, uma relação entre o PIB per capita e a aplicação de vacinas.
