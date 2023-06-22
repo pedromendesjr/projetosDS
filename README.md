@@ -21,3 +21,7 @@ Tecnologias utilizadas: Python, pandas, scikit-learn, regressão linear.
 * [3. Dashboard no Tableau para monitoramento das vacinas da COVID-19:](https://public.tableau.com/views/PaineldaVacinasCOVID-19/Dashboard-VacinasnoMundo?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 Descrição: Um painel com os dados obtidos no Our World in Data sobre as aplicações das vacinas da COVID-19 no mundo. No projeto, podemos ver a quantidade ministrada em 1a dose, vacinação completa e dose de reforço por continente ou país. Além disso, uma relação entre o PIB per capita e a aplicação de vacinas.
+
+* [4. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/projetosDS/blob/main/Projeto_de_Classifica%C3%A7%C3%A3o_Heart_Disease.ipynb)
+
+Descrição: Nesse projeto, utilizamos algumas técnicas de machine learning e análise estatística para elaborar um projedo de data science. Durante o trabalho, pudemos desenvolver uma análise gráfica dos dados através das bibliotecas mais utilizadas como matplotlib, seaborn e entre outros. Na parte final do projeto, utilizamos validação cruzada para definir alguns parâmetros para os algoritmos de Decision Tree e Random Forest Classifier. Por fim, usamos algumas métricas para comparar a performance dos modelos. 
