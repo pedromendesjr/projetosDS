@@ -8,7 +8,7 @@ Meu objetivo é colaborar com pessoas e empresas, utilizando técnicas avançada
 ## Projetos
 Aqui estão alguns dos projetos que desenvolvi como parte do meu portfólio de Data Science:
 
-* [2. Web App de predição de preços com Machine Learning:](https://aptosapp.streamlit.app/Web%20App%20v%201.3)
+* [1. Web App de predição de preços com Machine Learning:](https://aptosapp.streamlit.app/Web%20App%20v%201.3)
 
 Descrição: Nesse projeto, utilizamos webscrapping para fazer um raspagem dos dados de imóveis a venda num portal imobiliário para alimentar algoritmos de Machine Learning, a fim de prever o preço de imóveis. Posteriormente, foi feito um web app para que o usuário coloque as informações de um imóvel que queira estimar o valor de venda. Durante o projeto, também foi feito um painel para visualizar os dados com possibilidades de filtros pelo usuário.
 
